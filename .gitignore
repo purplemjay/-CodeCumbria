@@ -1,0 +1,11 @@
+# Ignore log files
+*.log
+
+# Ignore Python cache folders
+__pycache__/
+
+# Ignore Windows shortcut files
+*.lnk
+
+# Ignore temporary files
+*.tmp
